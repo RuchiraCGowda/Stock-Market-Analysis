@@ -1,2 +1,2 @@
-# Stock-Market-Analysis-Dashboard-sample
+# Stock-Market-Analysis-Dashboard
                
